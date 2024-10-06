@@ -1,0 +1,10 @@
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\bin\Debug\NextbotCreator.exe.config
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\bin\Debug\NextbotCreator.exe
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\bin\Debug\NextbotCreator.pdb
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\obj\Debug\NextbotCreator.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\obj\Debug\NextbotCreator.Properties.Resources.resources
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\obj\Debug\NextbotCreator.csproj.GenerateResource.cache
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\obj\Debug\NextbotCreator.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\obj\Debug\NextbotCreator.exe
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\obj\Debug\NextbotCreator.pdb
+C:\Users\Gleb\source\repos\NextbotCreator\NextbotCreator\obj\Debug\NextbotCreator.SimpleNextbotCreator.resources
