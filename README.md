@@ -29,3 +29,4 @@
 
 ---
 ![Nextbot Demo](https://i.ibb.co/BP0tgLc/Garry-s-Mod-2024-10-06-20-41-51.gif)
+![Simple Nextbot Creator Example](https://i.ibb.co/b7c7wSt/Screenshot-2024-10-06-203505.png)
