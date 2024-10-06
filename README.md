@@ -28,3 +28,4 @@
 **Enjoy creating unique Nextbots and have fun!** 😊
 
 ---
+![Simple Nextbot Creator Example](https://i.ibb.co/b7c7wSt/Screenshot-2024-10-06-203505.png)
